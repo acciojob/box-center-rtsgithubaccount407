@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+     div {
+            background-color: lightblue;
+            border: 2px solid black;
+            margin: px;
+            width: 200px;
+            height: 200px;
+        }
+        
+        p {
+            position: relative;
+            color: purple;
+            text-align: center;
+            top: 75px;
+font-weight:bold;
+
+        }
